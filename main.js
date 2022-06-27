@@ -70,4 +70,4 @@ var peso = numero + unidade; // '80kg'
 
 var divisao = peso /2
 
-console.log(peso)
+console.log(peso )
